@@ -8,8 +8,8 @@ I'm Nic `Nico` Desjardins.
 - An app for my girlfriend to convert all her non-mp3s to mp3s... because her little mp3 player only plays mp3s and she has a bunch of non-mp3s {https://github.com/nicdesjardins/convertFolderOfMusicToMp3}
 
 🌱 I’m currently learning:
-- To hone my craft as a programmer... I've gotten incredibly inspired by Robert `uncle bob` C. Martin's videos and books. { I suggest you look him up on youtube. Start with: The Scribe's Oath • Robert "Uncle Bob" Martin }
-
+- To hone my craft as a programmer... I've recently gotten incredibly inspired by Robert `uncle bob` C. Martin's videos and books. { I suggest you look him up on youtube. Start with: The Scribe's Oath • Robert "Uncle Bob" Martin }
+  - ++ I'm trying my best to adhere to the [Programmer's Oath](http://nicdesjardins.com/documents/The_Programmers_Oath)
 
 👯 I’m looking to collaborate on an an open source project. I'm thinking @hovancik's project https://github.com/hovancik/stretchly because I use it all the time and I have some ideas for improvements that I could make use of in my own life.
 
@@ -22,7 +22,7 @@ I'm Nic `Nico` Desjardins.
 
 📫 How to reach me: send an email to letschat@nicdesjardins.com (I've abandonned instagram, facebook, and twitter).
 
-😄 Pronouns: Hey! You there! Sir! Dude! Silly Fucker! Bruh! Sire! {I'm mostly kidding, but not really, call me what you like and use your best judgement. We can have a conversation. }
+😄 Pronouns: Hey! You there! Sir! Dude! Silly Fucker! Bruh! He/him! Sire! {I'm mostly kidding, but not really, call me what you like and use your best judgement. We can have a conversation. }
 
 ⚡ Fun facts:
 - I try to go on as many adventures as possible, be they physical or psychological.
