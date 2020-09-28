@@ -10,6 +10,7 @@ I'm Nic `Nico` Desjardins.
 🌱 I’m currently learning:
 - To hone my craft as a programmer... I've recently gotten incredibly inspired by Robert `uncle bob` C. Martin's videos and books. { I suggest you look him up on youtube. Start with: The Scribe's Oath • Robert "Uncle Bob" Martin }
   - ++ I'm trying my best to adhere to the [Programmer's Oath](http://nicdesjardins.com/documents/The_Programmers_Oath)
+- To teach a subject while learning it. Just gotta stay one day ahead :D
 
 👯 I’m looking to collaborate on an an open source project. I'm thinking @hovancik's project https://github.com/hovancik/stretchly because I use it all the time and I have some ideas for improvements that I could make use of in my own life.
 
